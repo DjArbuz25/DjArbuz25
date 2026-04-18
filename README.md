@@ -14,6 +14,6 @@
 
 ### a:
 
-<img src="https://raw.githubusercontent.com/DjArbuz25/DjArbuz25/output/github-contribution-grid-snake.svg" alt="Snake game">
+<img src="https://yhype-3d-contrib.vercel.app/api?username=DjArbuz25&theme=radical" alt="3D Contrib" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Djarbuz25&layout=compact&theme=radical" />
 </div>

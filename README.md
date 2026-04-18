@@ -12,8 +12,5 @@
 
 ---
 
-### a:
-
-<img src="https://bubble-render.vercel.app/api?type=soft&text=DjArbuz25%20is%20coding...&color=auto&fontSize=40" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Djarbuz25&layout=compact&theme=radical" />
 </div>

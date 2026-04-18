@@ -14,6 +14,6 @@
 
 ### a:
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=DjArbuz25&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+<img height="150em" src="https://github-readme-stats.vercel.app/api?username=DjArbuz25&show_icons=true&theme=radical&hide_rank=true&layout=compact" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Djarbuz25&layout=compact&theme=radical" />
 </div>
